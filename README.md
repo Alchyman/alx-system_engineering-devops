@@ -1,1 +1,3 @@
-git3 readme
+#!/bin/bash
+alx for life
+
